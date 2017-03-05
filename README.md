@@ -107,3 +107,5 @@ This sets up a Ruby on Rails 5.0.2 app using Docker and Docker-Compose to pull i
 `docker-compose run --rm app rake db:migrate`
 
 `docker-compose run --rm app rails g scaffold`
+
+#### https://www.youtube.com/watch?v=a-jcTib9ZPA&t=3s
